@@ -1,0 +1,62 @@
+p {
+    color: white;
+    font: 1rem verdana;
+
+}
+
+legend {
+    color: yellow;
+    font: 1.2rem verdana;
+    font-weight: bold;
+
+}
+
+fieldset {
+    color: white;
+    width: 800PX;
+    border: 1px solid;
+    margin: 20px;
+}
+
+form {
+    width: 800px;
+    margin: auto 20rem auto 21rem;
+
+}
+
+form #csexo {
+    width: 250px;
+    font: 1.3vw verdana;
+
+}
+
+input.btn{
+    background-color: black;
+    color: yellow;
+    padding: 7px;
+    margin: 5px;
+    font: 1.3vw verdana;
+    border: none;
+
+}
+
+input.btn:hover{
+background-color: yellow;
+color: black;
+
+}
+
+fieldset#usuario{
+background: url("imagens/icon.usuario.png") no-repeat 95% 95%;
+
+}
+
+fieldset #endereco{
+background: url("imagens/icon.usuario.png") no-repeat 95% 95%;
+
+}
+
+fieldset #mensagem{
+background: url("imagens/icon.usuario.png") no-repeat 95% 95%;
+
+}

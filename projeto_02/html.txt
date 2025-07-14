@@ -1,0 +1,80 @@
+<html>
+	<head>
+	<title>Pokemon</title>
+	</head>
+<body bgcolor="black">
+
+<h1 align="center"><font color="white" size="7" face="impact">Pokemons e evoluções!</font></h1>
+
+<h2 align="center"><font color="green" size="6" face="lucida console">Bulbasaur:</font></h2>
+
+<p><center><img src="bulbasaur.png" width="200" height="200">
+<img src="ivysaur.png" width="200" height="200">
+<img src="Venusaur.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Bulbasaur-Ivysaur-Venusaur</font></h2></p>
+
+<h2 align="center"><font color="lightpink" size="6" face="lucida console">Charmander:</font></h2>
+
+<p><center><img src="Charmander.png" width="200" height="200">
+<img src="Charmeleon.png" width="200" height="200">
+<img src="Charizard.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Charmander-Charmeleon-Charizard</font></h2></p>
+
+<h2 align="center"><font color="lightblue" size="6" face="lucida console">Squirtle:</font></h2>
+
+<p><center><img src="Squirtle.png" width="200" height="200">
+<img src="Wartortle.png" width="200" height="200">
+<img src="Blastoise.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Squirtle-Wartortle-Blastoise</font></h2></p>
+
+<h2 align="center"><font color="lightgreen" size="6" face="lucida console">Caterpie:</font></h2>
+
+<p><center><img src="Caterpie.png" width="200" height="200">
+<img src="Metapod.png" width="200" height="200">
+<img src="Butterfree.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Caterpie-Metapod-Butterfree</font></h2></p>
+
+<h2 align="center"><font color="beige" size="6" face="lucida console">Pidgey:</font></h2>
+
+<p><center><img src="Pidgey.png" width="200" height="200">
+<img src="Pidgeotto.png" width="200" height="200">
+<img src="Pidgeot.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Pidgey-Pidgeotto-Pidgeot</font></h2></p>
+
+<h2 align="center"><font color="lightyellow" face="lucida console">Eevee:</font></h2>
+
+<p><center><img src="Eevee.png" width="200" height="200">
+<img src="Vaporeon.png" width="200" height="200">
+<img src="Jolteon.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Eevee-Vaporeon-Jolteon</font></h2></p>
+
+<h2 align="center"><font color="lightgray" size="6" face="lucida console">Machop:</font></h2>
+
+<p><center><img src="Machop.png" width="200" height="200">
+<img src="Machoke.png" width="200" height="200">
+<img src="Machamp.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Machop-Machoke-Machamp</font></h2></p>
+
+<h2 align="center"><font color="lightblue" size="6" face="lucida console">Poliwag:</font></h2>
+
+<p><center><img src="Poliwag.png" width="200" height="200">
+<img src="Poliwhirl.png" width="200" height="200">
+<img src="Politoed.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Poliwag-Poliwhirl-Politoed</font></h2></p>
+
+<h2 align="center"><font color="lightpink" size="6" face="lucida console">Zubat:</font></h2>
+
+<p><center><img src="Zubat.png" width="200" height="200">
+<img src="Golbat.png" width="200" height="200">
+<img src="Crobat.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Zubat-Golbat-Crobat</font></h2></p>
+
+<h2 align="center"><font color="lightgreen" size="6" face="lucida console">Ralts:</font></h2>
+
+<p><center><img src="Ralts.png" width="200" height="200">
+<img src="Kirlia.png" width="200" height="200">
+<img src="Gardevoir.png" width="200" height="200"></center>
+<h2 align="center"><font color="white" size="4" face="papyrus">Ralts-Kirlia-Gardevoir</font></h2></p>
+
+</body>
+</html>

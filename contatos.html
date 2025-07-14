@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link rel="shortcut icon" href="imagens/contato.png" type="image/x-icon">
+    <link rel="stylesheet" href="stylecontatos.css">
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+</head>
+
+<body>
+
+    <header id="menu">
+        <img class="logo" src="imagens/darlan.jpg" alt="imagem de casa">
+        <p>
+        <h1>Portiifólio e Curriculo</h1>
+        </p>
+        <p>
+        <h2>Darlan Fernando dos Santos</h2>
+        </p>
+        <nav>
+            <a class="links1" href="index.html">Currículo</a>
+            <a class="links1" href="portifolio.html"> Portifólio</a>
+            <a class="links1" href="contatos.html">Contatos</a>
+        </nav>
+    </header>
+
+    <div class="info01">
+        <h3> Informações Pessoais</h3>
+        <ul>
+            <li>End: Rua Travessa Bahia,</li>
+            <li> Cidade: São Paulo,</li>
+            <li>Estado: São Paulo,</li>
+            <li>Telefone: (11) 99137-0481,</li>
+            <li>E-mail:
+                darlansantosxxx2@gmail.com,</li>
+            <li>Brasileiro.</li>
+            </li>
+    </div>
+
+    <main>
+        <div>
+            <form>
+                <fieldset id="usuario">
+
+                    <legend> Informação do Usúario</legend>
+                    <p>
+                        <label>Nome:</label>
+                        <input type="text" id="cnome" size="50" maxlength="50"
+                            placeholder="digite aqui seu nome completo" required>
+                    </p>
+                    <p>
+                        <label>Email:</label>
+                        <input type="email" id="cemail" size="30" maxlength="30"
+                            placeholder="digite aqui um e-mail valido" required>
+                    </p>
+                    <p>
+                        <label>Senha:</label>
+                        <input type="password" id="csenha" size="16" maxlength="16" placeholder="digite aqui sua senha"
+                            required>
+                    </p>
+
+                    <fieldset id="csexo">
+                        <legend>Sexo</legend>
+                        <p>
+                            <input type="radio" name="sexo" id="cmasc" checked> <label for="">Masculino</label>
+                        </p>
+                        <p>
+                            <input type="radio" name="sexo" id="cfem"> <label for="">Feminino</label>
+                        </p>
+                        <p>
+                            <input type="radio" name="sexo" id="coutro"> <label for="">Outro</label>
+                        </p>
+
+                    </fieldset>
+
+                    <label>data de nascimento</label>
+                    <input for="" type="date" name="nasc" id="cnasc">
+
+                </fieldset>
+                <fieldset id="endereco">
+
+                    <legend>Endereço do Usuario</legend>
+                    <p>
+                        <label>Lagradouro:</label>
+                        <input for="" type="email" name="rua" id="crua" size="50" maxlength="50"
+                            placeholder="Rua, Av., Trav...">
+                    </p>
+
+                    <p>
+                        <label>Número:</label>
+                        <input type="number" name="numero" id="cnum" min="0" max="9999" step="1" value="1">
+                    </p>
+                    <p>
+                        <label for="">Estados:</label>
+                        <select name="estado" id="cestado">
+                            <option value="AC">Acre</option>
+                            <option value="AL">Alagoas</option>
+                            <option value="AP">Amapá</option>
+                            <option value="AM">Amazonas</option>
+                            <option value="BA">Bahia</option>
+                            <option value="CE">Ceará</option>
+                            <option value="DF">Distrito Federal</option>
+                            <option value="ES">Espírito Santo</option>
+                            <option value="GO">Goiás</option>
+                            <option value="MA">Maranhão</option>
+                            <option value="MT">Mato Grosso</option>
+                            <option value="MS">Mato Grosso do Sul</option>
+                            <option value="MG">Minas Gerais</option>
+                            <option value="PA">Pará</option>
+                            <option value="PB">Paraíba</option>
+                            <option value="PR">Paraná</option>
+                            <option value="PE">Pernambuco</option>
+                            <option value="PI">Piauí</option>
+                            <option value="RJ">Rio de Janeiro</option>
+                            <option value="RN">Rio Grande do Norte</option>
+                            <option value="RS">Rio Grande do Sul</option>
+                            <option value="RO">Rondônia</option>
+                            <option value="RR">Roraima</option>
+                            <option value="SC">Santa Catarina</option>
+                            <option value="SP">São Paulo</option>
+                            <option value="SE">Sergipe</option>
+                            <option value="TO">Tocantins</option>
+                        </select>
+
+                    </p>
+                    <p>
+                        <label for="">cidade:</label>
+                        <input for="" type="email" name="rua" id="crua" size="50" maxlength="50"
+                            placeholder="Digite aqui sua cidade">
+                    </p>
+                </fieldset>
+
+                <fieldset id="mensagem">
+                    <legend>Mensagem do Usuario</legend>
+                    <p>
+                        <label for="">Mensagem:</label>
+                    </p>
+                    <p>
+                        <textarea name="msg" id="cmsg" cols="50" rows="10" placeholder="Digite aqui  sua mensagem"
+                            maxlength="1000"></textarea>
+
+                    </p>
+                </fieldset>
+
+                <input type="button" value="Enviar" class="btn" name="enviar">
+                <input type="reset" value="Limpar" class="btn" name="limpar">
+
+            </form>
+
+
+        </div>
+    </main>
+
+    <footer>
+        Portifólio - 2025 Designer Darlan Fernando dos Santos
+    </footer>
+
+
+</body>
+
+</html>
