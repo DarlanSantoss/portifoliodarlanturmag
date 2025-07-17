@@ -56,7 +56,7 @@ background: url("imagens/casa.png") no-repeat 95% 95%;
 
 }
 
-fieldset #mensagem{
+fieldset#mensagem{
 background: url("imagens/comentarios.png") no-repeat 95% 95%;
 
 }
