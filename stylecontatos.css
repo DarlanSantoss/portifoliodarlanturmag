@@ -47,12 +47,12 @@ color: black;
 }
 
 fieldset#usuario{
-background: url("imagens/icon.usuario.png") no-repeat 95% 95%;
+background: url("imagens/contatos\ \(2\).png") no-repeat 95% 95%;
 
 }
 
-fieldset #endereco{
-background: url("imagens/icon.usuario.png") no-repeat 95% 95%;
+fieldset#endereco{
+background: url("imagens/casa.png") no-repeat 95% 95%;
 
 }
 
